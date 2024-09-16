@@ -1,6 +1,8 @@
 # Face-Detection-using-opencv
 
-Project Overview: The application displays an input image, its grayscale version, and the result after detecting faces. The face detection is performed using OpenCV's Haar Cascade Classifier, which is a popular method for object detection, particularly for identifying human faces. The detected faces are highlighted with green rectangles.
+Project Overview: 
+
+The application displays an input image, its grayscale version, and the result after detecting faces. The face detection is performed using OpenCV's Haar Cascade Classifier, which is a popular method for object detection, particularly for identifying human faces. The detected faces are highlighted with green rectangles.
 
 Key Components:
 
